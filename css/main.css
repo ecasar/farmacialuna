@@ -1,0 +1,175 @@
+.logo1 {
+    display: block;
+    margin: 0px auto;
+    background-color: aliceblue;
+}
+.texto_menu {
+    background-color: lightblue;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fondo {
+    background-color: aliceblue;
+    color:black;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+h1 {
+    background-color: lightblue;
+    color: aliceblue;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+sobrenosotros {
+    background-color: aliceblue;
+    color:green;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+.intro {
+    background-color: aliceblue;
+    color:green;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.ubiquenos {
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin: 0px auto;
+}
+.farmacia {
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin: 0px auto;    
+}
+
+h3 {
+    background-color: aliceblue;
+    color:green;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+.productos1 {
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin: 0px auto;
+    
+}
+.productos2 {
+
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin: 0px auto;
+    
+}
+.productos3 {
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin: 0px auto;
+    
+    
+}
+.productos4 {
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin: 0px auto;    
+}
+
+.pie {
+    display: block;
+    margin: 0px auto;
+    background-color: aliceblue;
+    text-align: center;
+    vertical-align: text-bottom;
+}
+.logo2 {
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin: 0px auto;
+    background-color: aliceblue;    
+}
+
+.historia{
+    position: absolute;
+    top: 400px;
+    margin-left: 9px;
+    width: 1000px;
+    margin-top: 150px;
+    text-align: left;
+    color: darkblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.historia1 {
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin-right: 100px;
+}
+.farmacia2 {
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin-right: 100px;
+}
+
+.pie2 {
+    display: block;
+    margin: 0px auto;
+    background-color: aliceblue;
+    text-align: center;
+    
+}
+
+.logo3 {
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin: 0px auto;
+    background-color: aliceblue;    
+    margin-top: 750px;
+}
+
+.vision_mision{
+    position: absolute;
+    top: 400px;
+    margin-left: 80px;
+    margin-right: 80px;
+    width: 1500px;
+    margin-top: 100px;
+    text-align: center;
+    color: darkblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.imagenes {
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-left: 50px;
+}
